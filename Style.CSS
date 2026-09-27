@@ -1,0 +1,13 @@
+</>CSS
+/*CSS Reset*/
+*,
+*::before,
+*::after{box-sizing: boader-box;}
+Body{
+margin:0;
+padding:;
+}
+img{
+max-width:100%;
+display: block;
+}
